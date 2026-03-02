@@ -1,0 +1,45 @@
+﻿ID_Name,EnText,ElText
+StartText (TMP),Start,Έναρξη
+StartComText (TMP),Start With Voice Instructions,Έναρξη με Φωνητικές Οδηγίες
+ExitText (TMP),Exit,Έξοδος
+Select Repetitions Text (TMP),Please select the number of repetitions,Παρακαλώ επιλέξτε αριθμό επαναλήψεων
+QuestionQoL Text (TMP),Please rate your quality of life level. To rate your quality of life level focus for a few seconds on the number that best represents you.,Παρακαλώ αξιολογήστε το επίπεδο της ποιότητας ζωής σας. Για να επιλέξετε το επίπεδο της ποιότητας ζωής σας εστιάστε για μερικά δευτερόλεπτα στον αριθμό που σας εκφράζει.
+QuestionStress Text (TMP),Please rate your stress level. To rate your stress level focus for a few seconds on the number that best represents you.,Παρακαλώ αξιολογήστε το επίπεδο άγχους που αισθάνεστε. Για να επιλέξετε το επίπεδο άγχους που αισθάνεστε εστιάστε για μερικά δευτερόλεπτα στον αριθμό που σας εκφράζει.
+QuestionPain Text (TMP),Please rate your pain level. To rate your pain level focus for a few seconds on the icon that best represents you.,Παρακαλώ αξιολογήστε το επίπεδο πόνου που αισθάνεστε. Για να επιλέξετε το επίπεδο πόνου που αισθάνεστε εστιάστε για μερικά δευτερόλεπτα στο εικονίδιο που σας εκφράζει.
+QuestionFatque Text (TMP),Please rate your fatigue level. To rate your fatigue level focus for a few seconds on the number that best represents you.,Παρακαλώ αξιολογήστε το επίπεδο κόπωσης που αισθάνεστε.  Για να επιλέξετε το επίπεδο κόπωσης που αισθάνεστε εστιάστε για μερικά δευτερόλεπτα στον αριθμό που σας εκφράζει.
+LifeLevel Text (TMP),|Very Bad -----------------------------------------------------------Excellent|,|Πολύ Κακή -------------------------------------------------------Εξαιρετική|
+StressLevel Text (TMP),|No Stress ---------------------------------------------------Very Stressed|,|Καθόλου άγχος ------------------------------------------------Πολύ άγχος|
+0.PainText (TMP),No Pain    (0),Καθόλου Πόνος    (0)
+1.PainText (TMP),Minimal Pain       (1),Ελάχιστος Πόνος    (1)
+2.PainText (TMP),A Little Pain       (2),Λίγος Πόνος    (2)
+3.PainText (TMP),Moderate Pain       (3),Μέτριος Πόνος      (3)
+4.PainText (TMP),Severe Pain       (4),Δυνατός Πόνος    (4)
+5.PainText (TMP),Very Severe Pain       (5),Πολύ Δυνατός Πόνος    (5)
+NoFatigue Text (TMP),No Fatigue,Καμία κόπωση
+Mild Text (TMP),Mild Fatigue,Ήπια κόπωση
+Moderate Text (TMP),Moderate Fatigue,Μέτρια κόπωση
+Severe Text (TMP),Severe Fatigue,Σοβαρή κόπωση
+TitleNeck Text (TMP),Neck Exercises,Ασκήσεις Αυχένα
+TextNeckTilting (TMP),Neck Tilting,Κλίση Αυχένα
+TextChinToChest (TMP),Neck Flexion,Κάμψη Αυχένα
+TextNeckTurning (TMP),Neck Turning,Περιστροφή Αυχένα
+TextSkipAll (TMP),Skip All,Παράλειψη 'Oλων
+RepTitle Text (TMP),Repetitions:,Επαναλήψεις:
+ShowText (TMP),Show,Επίδειξη
+SkipText (TMP),Skip,Παράλειψη
+BackText (TMP),Back,Πίσω
+Completed Text (TMP),Exercise Completed,Η Άσκηση Ολοκληρώθηκε
+QuestionPostPain Text (TMP),Rate the level of pain you felt while performing the exercise. To assess the level of pain you felt focus for a few seconds on the icon that best represents you.,Αξιολογήστε το επίπεδο πόνου που νιώθατε καθώς πραγματοποιούσατε την άσκηση. Για να αξιολογήσετε το επίπεδο πόνου που αισθανόσασταν εστιάστε για μερικά δευτερόλεπτα στο εικονίδιο που σας εκφράζει.
+TitleShoulder Text (TMP),Shoulder Exercises,Ασκήσεις Ώμων
+TextShoulder Up and Down (TMP),Shoulder Up and Down,Ώμοι Πάνω και Κάτω
+TextShoulder Adduction (TMP),Shoulder Adduction,Προσαγωγή Ώμου
+TextShoulder Flexion (TMP),Shoulder Flexion,Κάμψη Ώμου
+TitleArm Text (TMP),Arm Exercises,Ασκήσεις Βραχίονα
+TextArm Up and Down (TMP),Arm Up and Down,Χέρια Πάνω και Κάτω
+TextSideway Arm Raise (TMP),Sideway Arm Raise,Πλάγια Ανύψωση Χεριού
+TitleElbow Text (TMP),Elbow Exercises,Ασκήσεις Αγκώνα
+TextElbow Bicep (TMP),Elbow Bicep,Δικέφαλος Αγκώνα
+TextElbow Tricep (TMP),Elbow Tricep,Τρικέφαλος Αγκώνα
+TextElbow Extension (TMP),Elbow Extension,Προέκταση Αγκώνα
+AllCompleted Text (TMP),You have successfully completed all the exercises!,Έχετε ολοκληρώσει με επιτυχία  όλες τις ασκήσεις!
+MenuText (TMP),Menu,Μενού
