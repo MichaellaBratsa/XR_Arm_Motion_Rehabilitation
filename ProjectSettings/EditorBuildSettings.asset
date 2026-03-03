@@ -26,9 +26,21 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Physical_XRMobile_Cancer/Scenes/My HelloCardboard.unity
     guid: 0866ca3dc4651c3459110d5b684a6890
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Physical_XR_Cancer/Scenes/5. Shoulder Up and Down.unity
     guid: d14b0dbf886099e408c01b749c7accd6
+  - enabled: 0
+    path: Assets/_Physical_XR_Cancer/Scenes/6. Shoulder Adduction.unity
+    guid: fba7bd8ca36db94469247f90e7dc757d
+  - enabled: 0
+    path: Assets/_Physical_XR_Cancer/Scenes/7. Shoulder Flexion.unity
+    guid: ba995d760848361429eaee70da2bc6e3
+  - enabled: 0
+    path: Assets/_Physical_XR_Cancer/Scenes/9. Arm Up and Down.unity
+    guid: 6e56bc6c94f98ef41be76ce093f5aac9
+  - enabled: 1
+    path: Assets/_Physical_XR_Cancer/Scenes/10. Sideway Arm Raise.unity
+    guid: 71740bcb0677e0043a12dd9012486b57
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a1cf045e77bd83746b8df46a07da5eaa, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 964d31ca12abb774ba1bcdb83ef71a01, type: 2}
