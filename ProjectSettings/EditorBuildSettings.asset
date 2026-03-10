@@ -21,17 +21,11 @@ EditorBuildSettings:
     path: Assets/_Physical_XR_Cancer/Scenes/4. Menu Shoulder.unity
     guid: 8de27acbe5ba54c45bd982785ba1c870
   - enabled: 0
-    path: Assets/_Physical_XRMobile_Cancer/Scenes/My VRMode.unity
-    guid: 8a4d480812c899842ae583e22f5f4a07
-  - enabled: 0
-    path: Assets/_Physical_XRMobile_Cancer/Scenes/My HelloCardboard.unity
-    guid: 0866ca3dc4651c3459110d5b684a6890
-  - enabled: 0
     path: Assets/_Physical_XR_Cancer/Scenes/5. Shoulder Up and Down.unity
     guid: d14b0dbf886099e408c01b749c7accd6
   - enabled: 0
     path: Assets/_Physical_XR_Cancer/Scenes/6. Shoulder Adduction.unity
-    guid: fba7bd8ca36db94469247f90e7dc757d
+    guid: fa986d83ca77f89428f9ce91c33004de
   - enabled: 0
     path: Assets/_Physical_XR_Cancer/Scenes/7. Shoulder Flexion.unity
     guid: ba995d760848361429eaee70da2bc6e3
@@ -44,15 +38,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Physical_XR_Cancer/Scenes/11. Menu Elbow.unity
     guid: 7c99b9a4453863840822ce29d0d0a70b
-  - enabled: 0
+  - enabled: 1
     path: Assets/_Physical_XR_Cancer/Scenes/12. Elbow Bicep.unity
     guid: d574f9e9ada8a6646b90ebdfc8e62542
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Physical_XR_Cancer/Scenes/14. Elbow Extension.unity
     guid: 02b0121033eb43a44bb76120e19d6861
   - enabled: 0
     path: Assets/_Physical_XR_Cancer/Scenes/13. Elbow Tricep.unity
     guid: 0e028e889adc2fa4ab56c64916a8ed43
+  - enabled: 0
+    path: Assets/_Physical_XR_Cancer/Scenes/8. Menu Arms.unity
+    guid: ed6b5158e790b1f4fae60b84992a8b7a
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a1cf045e77bd83746b8df46a07da5eaa, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 964d31ca12abb774ba1bcdb83ef71a01, type: 2}

@@ -102,11 +102,15 @@ public class SimpleBleReceiver : MonoBehaviour
     // Called by the Android plugin when connection/status updates happen.
     public void OnStatus(string status)
     {
-        // When connected, request a larger MTU for faster / bigger packets.
-        if (status.ToLower().Contains("connected"))
+        string s = status.ToLower();
+
+        // Εκτύπωση για να βλέπεις τι γίνεται στην κονσόλα του Unity
+        UnityEngine.Debug.Log("BLE Status: " + status);
+
+        if (s.Contains("ready"))
         {
-            // Request MTU 185 (common value for improved throughput).
             bleManager.Call("requestMtu", 185);
+            UnityEngine.Debug.Log("Requested MTU 185 from C#");
         }
     }
 
