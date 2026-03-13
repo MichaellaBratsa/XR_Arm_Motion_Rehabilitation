@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 07d89429f7eaccc45bc10727df89ed6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 220165
+  packageName: Didimo - 3D Male Avatars
+  packageVersion: 3.1
+  assetPath: Assets/Didimo/Characters/MaleAvatars/Scripts/Editor/DependencyInstaller.cs
+  uploadId: 550746

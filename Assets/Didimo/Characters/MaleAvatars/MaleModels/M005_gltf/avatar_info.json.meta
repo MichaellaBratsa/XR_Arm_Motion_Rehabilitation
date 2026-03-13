@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd0c40bc5c3fb1f43a931caefb6b43eb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 220165
+  packageName: Didimo - 3D Male Avatars
+  packageVersion: 3.1
+  assetPath: Assets/Didimo/Characters/MaleAvatars/MaleModels/M005_gltf/avatar_info.json
+  uploadId: 550746
